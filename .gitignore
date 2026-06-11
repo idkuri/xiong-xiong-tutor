@@ -1,0 +1,14 @@
+node_modules/
+dist/
+# Secrets — never commit private keys or env files with real values
+.env
+.env.*
+!.env.example
+.tauri/
+*.key
+.venv/
+__pycache__/
+backend/data/
+backend/.last_session
+backend/test_transactions.pdf
+*.log
