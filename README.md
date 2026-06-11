@@ -110,4 +110,3 @@ models (`bge-m3` for embeddings and the default generation model).
 
 - `backend/make_test_pdf.py` generates a small sample PDF for testing the pipeline
 - API docs available at http://127.0.0.1:8731/docs while the backend is running
-# xiong-xiong-tutor
